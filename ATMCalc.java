@@ -5,7 +5,7 @@ public class ATMCalc
     int decide, topup;
     double amounts, totalWithdrawal, totalDeposit;
     public static final String ACCOUNTNAME = "Oladipupo A. Popoola";
-    public static final double BALANCE = 1500.65;
+    public static double BALANCE = 1500.65;
 
     Scanner input = new Scanner(System.in);
     
