@@ -103,11 +103,6 @@ public class ATMCalc
         System.out.println("As a learner, we are upgrading our brain....");
         System.out.print("Please visit the nearest ATM to solve that problem for now");
     }
-    /**
-    public void UpdateBalance()
-    {
-    	for(amounts = )
-    }*/
     public void getBalance()
     {
         System.out.println("===Your Account Balance Information===");
